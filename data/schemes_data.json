@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "category": "Agriculture",
+    "level": "Central",
+    "ministry": "Ministry of Agriculture and Farmers Welfare",
+    "target_beneficiaries": [
+      "Small and Marginal Farmers",
+      "Farmers"
+    ],
+    "summary": "Income support of ₹6,000 per year in three equal installments of ₹2,000 directly transferred to bank accounts of landholding farmer families across India.",
+    "eligibility": {
+      "occupations": [
+        "Farmer",
+        "Self Employed"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "Farmer families with cultivable landholding in their name. Institutional landholders and high-income taxpayers/professionals are excluded."
+    },
+    "benefits": "₹6,000 per year transferred directly into bank accounts in 3 installments of ₹2,000 every 4 months.",
+    "documents_required": [
+      "Aadhaar Card linked with mobile",
+      "Land Ownership Documents / Khasra-Khatauni",
+      "Bank Account details with IFSC (Aadhaar seeded)",
+      "Citizenship proof"
+    ],
+    "application_steps": [
+      "Visit pmkisan.gov.in and click on 'New Farmer Registration'.",
+      "Enter Aadhaar number and select state.",
+      "Fill in land details and bank account information.",
+      "Submit and complete e-KYC via OTP or biometrics at CSC."
+    ],
+    "official_url": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "ayushman-bharat",
+    "name": "Ayushman Bharat - PM Jan Arogya Yojana (AB-PMJAY)",
+    "category": "Healthcare",
+    "level": "Central",
+    "ministry": "Ministry of Health and Family Welfare / National Health Authority",
+    "target_beneficiaries": [
+      "Low-income families",
+      "BPL",
+      "Senior Citizens 70+"
+    ],
+    "summary": "World's largest health assurance scheme providing health cover of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization to over 12 crore poor families, plus universal coverage for all senior citizens aged 70+.",
+    "eligibility": {
+      "occupations": [
+        "Daily Wage Worker",
+        "Farmer",
+        "Unemployed",
+        "Retired",
+        "Student",
+        "Self Employed"
+      ],
+      "max_annual_income": 300000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS",
+        "Minority"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 0,
+      "age_max": null,
+      "criteria": "Identified by SECC 2011 database or NFSA ration card holders, OR any Indian citizen aged 70 years and above irrespective of income."
+    },
+    "benefits": "Cashless hospitalization coverage up to ₹5,00,000 per family per year across empaneled public and private hospitals across India.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Ration Card / Family ID",
+      "Active Mobile Number",
+      "Income Certificate / SECC verification document"
+    ],
+    "application_steps": [
+      "Visit beneficiary.nha.gov.in or download Ayushman App.",
+      "Login with mobile number and verify via Aadhaar OTP.",
+      "Search family in SECC/NFSA database.",
+      "Complete e-KYC and download Ayushman Card."
+    ],
+    "official_url": "https://beneficiary.nha.gov.in"
+  },
+  {
+    "id": "pmay-urban",
+    "name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U 2.0)",
+    "category": "Housing",
+    "level": "Central",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "target_beneficiaries": [
+      "EWS",
+      "LIG",
+      "MIG",
+      "Urban Poor",
+      "Slum Dwellers"
+    ],
+    "summary": "Provides pucca houses or interest subsidy on home loans for eligible urban families belonging to EWS/LIG and Middle-Income segments.",
+    "eligibility": {
+      "occupations": [
+        "Daily Wage Worker",
+        "Salaried Employee",
+        "Private Employee",
+        "Self Employed",
+        "Business Owner"
+      ],
+      "max_annual_income": 900000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS",
+        "Minority"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 21,
+      "age_max": 70,
+      "criteria": "Beneficiary family must not own a pucca house anywhere in India. Female ownership or co-ownership is mandatory in EWS/LIG."
+    },
+    "benefits": "Interest subsidy up to ₹1.80 - ₹2.67 lakh on home loans or upfront financial assistance of ₹1.5 lakh for house construction.",
+    "documents_required": [
+      "Aadhaar card of all family members",
+      "Income Certificate / Salary Slips / ITR",
+      "Bank statement for past 6 months",
+      "Affidavit of not owning a pucca house",
+      "Property purchase / construction agreement"
+    ],
+    "application_steps": [
+      "Apply through participating primary lending institutions (banks/HFCs) for CLSS, or via pmaymis.gov.in.",
+      "Fill online citizen assessment form with Aadhaar verification.",
+      "Submit property and income documents to the bank.",
+      "Subsidy is credited directly into your loan account upon verification."
+    ],
+    "official_url": "https://pmaymis.gov.in"
+  },
+  {
+    "id": "pmay-gramin",
+    "name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "category": "Housing",
+    "level": "Central",
+    "ministry": "Ministry of Rural Development",
+    "target_beneficiaries": [
+      "Rural Poor",
+      "Homeless",
+      "Kutcha house dwellers"
+    ],
+    "summary": "Financial assistance of ₹1.20 lakh (plains) or ₹1.30 lakh (hilly/difficult areas) for construction of pucca house with basic amenities.",
+    "eligibility": {
+      "occupations": [
+        "Farmer",
+        "Daily Wage Worker",
+        "Unemployed"
+      ],
+      "max_annual_income": 200000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "Families living in zero, one or two-room kutcha houses as per SECC 2011/Awaas+ survey list."
+    },
+    "benefits": "₹1,20,000 in plains and ₹1,30,000 in hilly/NE states directly transferred in stages, plus 90-95 days of MGNREGA wages and ₹12,000 for toilet construction.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook linked to Aadhaar",
+      "MGNREGA Job Card number",
+      "Swachh Bharat Mission (SBM) registration number"
+    ],
+    "application_steps": [
+      "Beneficiaries are selected by Gram Sabha based on Awaas+ list.",
+      "Contact Gram Panchayat Secretary or Block Development Officer (BDO).",
+      "Geo-tagged photos of existing site and progress are uploaded via AwaasSoft.",
+      "Funds transferred directly via DBT."
+    ],
+    "official_url": "https://pmayg.nic.in"
+  },
+  {
+    "id": "pm-mudra",
+    "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "category": "Finance & Business",
+    "level": "Central",
+    "ministry": "Ministry of Finance",
+    "target_beneficiaries": [
+      "Micro Entrepreneurs",
+      "Small Business Owners",
+      "Shopkeepers",
+      "Artisans"
+    ],
+    "summary": "Collateral-free institutional loans up to ₹20 lakh for non-corporate, non-farm small and micro enterprises under Shishu, Kishore, and Tarun categories.",
+    "eligibility": {
+      "occupations": [
+        "Business Owner",
+        "Self Employed",
+        "Professional"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": 65,
+      "criteria": "Any Indian citizen who has a business plan for non-farm income generating activity such as manufacturing, processing, trading, or service."
+    },
+    "benefits": "Loans without collateral: Shishu (up to ₹50,000), Kishore (₹50,000 to ₹5 lakh), Tarun (₹5 lakh to ₹10 lakh), and Tarun Plus (up to ₹20 lakh). Low interest rates.",
+    "documents_required": [
+      "Identity Proof (Aadhaar, Voter ID, PAN)",
+      "Address Proof",
+      "Business registration / Trade license / Udyam Certificate",
+      "Quotation of machinery/items to be purchased",
+      "Bank statement for last 6 months"
+    ],
+    "application_steps": [
+      "Visit udyamimitra.in portal or any public/private commercial bank/NBFC.",
+      "Fill the Mudra loan application form with business plan details.",
+      "Submit required KYC and business documents.",
+      "Loan is disbursed with Mudra debit card for working capital."
+    ],
+    "official_url": "https://www.mudra.org.in"
+  },
+  {
+    "id": "pm-svanidhi",
+    "name": "PM SVANidhi (PM Street Vendor's AtmaNirbhar Nidhi)",
+    "category": "Finance & Business",
+    "level": "Central",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "target_beneficiaries": [
+      "Street Vendors",
+      "Hawkers",
+      "Thela-walas"
+    ],
+    "summary": "Affordable micro-credit working capital loan for street vendors, starting with ₹10,000, then ₹20,000, and up to ₹50,000 with 7% interest subsidy on timely repayment.",
+    "eligibility": {
+      "occupations": [
+        "Daily Wage Worker",
+        "Self Employed"
+      ],
+      "max_annual_income": 300000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "Street vendors engaged in vending in urban areas possessing Certificate of Vending / ID card issued by Urban Local Bodies (ULBs)."
+    },
+    "benefits": "Collateral-free working capital loan: 1st tranche ₹10,000 (1 yr), 2nd tranche ₹20,000 (1.5 yrs), 3rd tranche ₹50,000 (3 yrs). 7% interest subsidy + cashback up to ₹1,200/year on digital transactions.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Vending Certificate or Letter of Recommendation (LoR) from ULB/Municipality",
+      "Bank account details"
+    ],
+    "application_steps": [
+      "Apply online on pmsvanidhi.mohua.gov.in or through Common Service Centers (CSC).",
+      "Enter Aadhaar and Mobile number for OTP verification.",
+      "Verify Vending Certificate or LoR.",
+      "Select preferred bank and submit application."
+    ],
+    "official_url": "https://pmsvanidhi.mohua.gov.in"
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "category": "Women & Child Welfare",
+    "level": "Central",
+    "ministry": "Ministry of Women and Child Development / Ministry of Finance",
+    "target_beneficiaries": [
+      "Girl Child (Under 10 years)",
+      "Parents / Guardians"
+    ],
+    "summary": "A government-backed small savings scheme under 'Beti Bachao Beti Padhao' with high interest (8.2% p.a.) and full tax exemption (EEE) under Section 80C.",
+    "eligibility": {
+      "occupations": [
+        "Student",
+        "Farmer",
+        "Salaried Employee",
+        "Self Employed",
+        "Business Owner",
+        "Daily Wage Worker",
+        "Professional"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Female"
+      ],
+      "age_min": 0,
+      "age_max": 10,
+      "criteria": "Parents or legal guardians of a girl child can open an account before she turns 10 years old. Maximum 2 accounts per family."
+    },
+    "benefits": "High compound interest rate (8.2% p.a. sovereign guarantee). Tax deduction up to ₹1.5 lakh under 80C. Interest earned and maturity amount are 100% tax-free. Account matures after 21 years or upon marriage after 18.",
+    "documents_required": [
+      "Girl child birth certificate",
+      "Parent/guardian Aadhaar and PAN",
+      "Address proof",
+      "Photographs of parent and child"
+    ],
+    "application_steps": [
+      "Visit any Post Office or authorized commercial bank branch.",
+      "Fill out the SSY Account Opening Form.",
+      "Submit KYC documents along with child's birth certificate.",
+      "Deposit minimum opening amount (₹250 minimum, up to ₹1.5 lakh/year)."
+    ],
+    "official_url": "https://www.indiapost.gov.in"
+  },
+  {
+    "id": "atal-pension",
+    "name": "Atal Pension Yojana (APY)",
+    "category": "Social Security & Pension",
+    "level": "Central",
+    "ministry": "Ministry of Finance / PFRDA",
+    "target_beneficiaries": [
+      "Unorganized Sector Workers",
+      "Self Employed",
+      "Citizens 18-40"
+    ],
+    "summary": "Guaranteed minimum monthly pension of ₹1,000 to ₹5,000 from age 60 for unorganized sector workers based on monthly contributions starting from ₹42/month.",
+    "eligibility": {
+      "occupations": [
+        "Daily Wage Worker",
+        "Farmer",
+        "Self Employed",
+        "Private Employee",
+        "Unemployed"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": 40,
+      "criteria": "Any Indian citizen between 18 and 40 years having a savings bank account. Note: Income tax payers are not eligible to join APY."
+    },
+    "benefits": "Guaranteed monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 for life after age 60. Same pension to spouse upon subscriber's death, and full accumulated corpus returned to nominee.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Savings Bank Account with Auto-Debit facility",
+      "Active Mobile Number"
+    ],
+    "application_steps": [
+      "Visit bank branch where you have a savings account or apply via NetBanking/Mobile Banking.",
+      "Fill APY registration form and choose desired pension amount (₹1,000 - ₹5,000).",
+      "Authorize auto-debit of monthly/quarterly contribution.",
+      "Receive PRAN (Permanent Retirement Account Number) card."
+    ],
+    "official_url": "https://www.npscra.nsdl.co.in/scheme-details.php"
+  },
+  {
+    "id": "pm-vishwakarma",
+    "name": "PM Vishwakarma Yojana",
+    "category": "Skill Development & Artisans",
+    "level": "Central",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises",
+    "target_beneficiaries": [
+      "Traditional Artisans",
+      "Carpenters",
+      "Blacksmiths",
+      "Goldsmiths",
+      "Potters",
+      "Tailors",
+      "Barbers",
+      "Cobblers"
+    ],
+    "summary": "Comprehensive support for 18 traditional trades: PM Vishwakarma Certificate & ID, ₹15,000 toolkit incentive, skill training with ₹500/day stipend, and collateral-free loans up to ₹3 lakh at 5% interest.",
+    "eligibility": {
+      "occupations": [
+        "Self Employed",
+        "Daily Wage Worker"
+      ],
+      "max_annual_income": 400000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "Artisans engaged in 18 traditional family-based crafts (Carpenter, Boat Maker, Armorer, Blacksmith, Hammer and Tool Kit Maker, Locksmith, Sculptor, Potter, Cobbler, Mason, Basket/Mat/Broom Maker, Doll & Toy Maker, Barber, Garland Maker, Washerman, Tailor, Fishing Net Maker). Limited to one member per family."
+    },
+    "benefits": "Skill training (5-7 days basic, 15+ days advanced) with ₹500/day stipend; ₹15,000 grant for modern toolkits; collateral-free credit support up to ₹1 lakh (1st tranche) and ₹2 lakh (2nd tranche) at concessional 5% interest; ₹1 per digital transaction incentive.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Mobile number linked to Aadhaar",
+      "Bank Account details",
+      "Ration card"
+    ],
+    "application_steps": [
+      "Apply through nearest CSC (Common Service Centre) on pmvishwakarma.gov.in.",
+      "Artisan verification done at Gram Panchayat or Urban Local Body level.",
+      "Upon approval, receive PM Vishwakarma Certificate & Digital ID.",
+      "Join training and receive toolkit voucher and loan access."
+    ],
+    "official_url": "https://pmvishwakarma.gov.in"
+  },
+  {
+    "id": "pm-ujjwala",
+    "name": "Pradhan Mantri Ujjwala Yojana 2.0 (PMUY)",
+    "category": "Women & Child Welfare",
+    "level": "Central",
+    "ministry": "Ministry of Petroleum and Natural Gas",
+    "target_beneficiaries": [
+      "Women from BPL / Low Income Families"
+    ],
+    "summary": "Provides deposit-free LPG gas connections with first refill and hotplate (stove) free of cost to adult women from poor households, plus ₹300 subsidy per 14.2kg cylinder refill.",
+    "eligibility": {
+      "occupations": [
+        "Farmer",
+        "Daily Wage Worker",
+        "Unemployed"
+      ],
+      "max_annual_income": 250000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Female"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "Adult woman belonging to poor household without any existing LPG connection in the family."
+    },
+    "benefits": "Free LPG connection (security deposit waived), free first LPG refill cylinder, free two-burner gas stove, and ongoing subsidy of ₹300 per refill transferred via DBT.",
+    "documents_required": [
+      "Aadhaar card of applicant woman and adult family members",
+      "Ration card / BPL document / 14-point declaration for migrants",
+      "Bank account linked with Aadhaar",
+      "Proof of address"
+    ],
+    "application_steps": [
+      "Apply online at pmuy.gov.in or visit nearest LPG distributor (Indane, Bharatgas, HP Gas).",
+      "Submit filled Ujjwala application with KYC documents.",
+      "Distributor performs de-duplication check.",
+      "Receive connection, gas cylinder, and stove."
+    ],
+    "official_url": "https://www.pmuy.gov.in"
+  },
+  {
+    "id": "nsp-post-matric",
+    "name": "Post-Matric Scholarship Scheme for SC/ST/OBC/EWS Students",
+    "category": "Education & Scholarship",
+    "level": "Central",
+    "ministry": "Ministry of Social Justice and Empowerment / Ministry of Tribal Affairs",
+    "target_beneficiaries": [
+      "Students (Class 11 to Ph.D.)",
+      "SC/ST/OBC/Minority youth"
+    ],
+    "summary": "Financial support covering non-refundable college/university tuition fees and maintenance allowance for post-matriculation or post-secondary stage education.",
+    "eligibility": {
+      "occupations": [
+        "Student"
+      ],
+      "max_annual_income": 250000,
+      "categories": [
+        "SC",
+        "ST",
+        "OBC",
+        "EWS",
+        "Minority"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 15,
+      "age_max": 35,
+      "criteria": "Students who have passed Class 10/Matriculation and are pursuing recognized post-matric courses. Total family income from all sources must not exceed ₹2.5 lakh per year."
+    },
+    "benefits": "Full reimbursement of non-refundable tuition fees directly to institute or student, plus monthly academic allowance/maintenance allowance up to ₹13,500/year for hostellers.",
+    "documents_required": [
+      "Student Aadhaar Card",
+      "Caste / Category Certificate",
+      "Income Certificate issued by competent authority (Tehsildar/SDM)",
+      "Fee receipt and college Bonafide Certificate",
+      "Previous year marksheet",
+      "Bank passbook copy"
+    ],
+    "application_steps": [
+      "Register on National Scholarship Portal (scholarships.gov.in) with OTR (One Time Registration).",
+      "Login using OTR number and fill applicant details.",
+      "Upload caste, income, and academic documents.",
+      "Application is verified online by institute and district nodal officer, funds disbursed via DBT."
+    ],
+    "official_url": "https://scholarships.gov.in"
+  },
+  {
+    "id": "kisan-credit-card",
+    "name": "Kisan Credit Card (KCC) Scheme",
+    "category": "Agriculture",
+    "level": "Central",
+    "ministry": "Ministry of Agriculture and Farmers Welfare / RBI",
+    "target_beneficiaries": [
+      "Farmers",
+      "Fishermen",
+      "Animal Husbandry Farmers"
+    ],
+    "summary": "Timely and adequate credit to farmers for agricultural needs, seeds, fertilizers, and post-harvest expenses at an effective subsidized interest rate of just 4% p.a. for loans up to ₹3 lakh.",
+    "eligibility": {
+      "occupations": [
+        "Farmer",
+        "Self Employed"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": 75,
+      "criteria": "Owner cultivators, tenant farmers, oral lessees, sharecroppers, and self-help groups of farmers. Also extended to fisheries and animal husbandry."
+    },
+    "benefits": "Credit limit up to ₹3 lakh without collateral up to ₹1.6 lakh. Nominal interest rate of 7%, reduced to 4% p.a. with prompt repayment incentive of 3%. Includes ATM-enabled RuPay debit card and personal accident cover.",
+    "documents_required": [
+      "Duly filled KCC application form",
+      "Aadhaar Card, PAN or Voter ID",
+      "Land Record documents (7/12 extract, Khatoni)",
+      "Crop pattern and acreage details"
+    ],
+    "application_steps": [
+      "Download simple 1-page KCC form from pmkisan.gov.in or bank portal.",
+      "Submit form with land documents at commercial bank, RRB, or cooperative bank branch.",
+      "Bank processes card within 14 days.",
+      "Receive RuPay KCC card for ATM withdrawals."
+    ],
+    "official_url": "https://myscheme.gov.in/schemes/kcc"
+  },
+  {
+    "id": "pm-matru-vandana",
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "category": "Women & Child Welfare",
+    "level": "Central",
+    "ministry": "Ministry of Women and Child Development",
+    "target_beneficiaries": [
+      "Pregnant Women",
+      "Lactating Mothers"
+    ],
+    "summary": "Maternity cash benefit of ₹5,000 for 1st living child and ₹6,000 for 2nd child (if girl) to compensate for wage loss and promote nutritional care.",
+    "eligibility": {
+      "occupations": [
+        "Daily Wage Worker",
+        "Farmer",
+        "Unemployed",
+        "Self Employed",
+        "Private Employee"
+      ],
+      "max_annual_income": 800000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Female"
+      ],
+      "age_min": 19,
+      "age_max": 45,
+      "criteria": "Pregnant women and lactating mothers who are not regular employees of Central/State Govt or PSUs. Family annual income less than ₹8 lakh."
+    },
+    "benefits": "₹5,000 in two installments for 1st child upon antenatal checkup and child immunization. For 2nd child, if it is a girl child, a lump sum of ₹6,000 is given to discourage female foeticide.",
+    "documents_required": [
+      "Mother's and Father's Aadhaar Card",
+      "Mother and Child Protection (MCP) Card",
+      "Bank passbook of the woman",
+      "Income certificate or eligible beneficiary card (E-Shram, NFSA, etc.)"
+    ],
+    "application_steps": [
+      "Register at nearest Anganwadi Centre (AWC) or health sub-centre within 570 days of LMP.",
+      "Or apply online at pmmvy.wcd.gov.in.",
+      "Submit MCP card details after registration and medical checkup.",
+      "Benefit transferred directly to woman's bank account via DBT."
+    ],
+    "official_url": "https://pmmvy.wcd.gov.in"
+  },
+  {
+    "id": "pm-fasal-bima",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "Agriculture",
+    "level": "Central",
+    "ministry": "Ministry of Agriculture and Farmers Welfare",
+    "target_beneficiaries": [
+      "Farmers growing notified crops"
+    ],
+    "summary": "Comprehensive crop insurance against non-preventable natural risks (drought, flood, pests, unseasonal rain, hailstorm) with farmer premium capped at 1.5% - 2%.",
+    "eligibility": {
+      "occupations": [
+        "Farmer"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "All farmers including sharecroppers and tenant farmers growing notified crops in notified areas."
+    },
+    "benefits": "Full sum insured payout for localized calamities, prevented sowing, post-harvest losses, and mid-season adversity. Farmers pay only 2% for Kharif, 1.5% for Rabi, and 5% for commercial/horticultural crops. Balance premium paid by government.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Land Ownership papers / Rent agreement for tenant farmers",
+      "Sowing Certificate / Declaration",
+      "Bank passbook"
+    ],
+    "application_steps": [
+      "Apply through PMFBY portal (pmfby.gov.in), nearest CSC, or bank.",
+      "Enter crop and field location details before cutoff date.",
+      "Pay nominal farmer premium.",
+      "Report crop damage within 72 hours via Crop Insurance App or toll-free number 14447 in case of localized calamity."
+    ],
+    "official_url": "https://pmfby.gov.in"
+  },
+  {
+    "id": "stand-up-india",
+    "name": "Stand-Up India Scheme",
+    "category": "Finance & Business",
+    "level": "Central",
+    "ministry": "Ministry of Finance",
+    "target_beneficiaries": [
+      "Women Entrepreneurs",
+      "SC/ST Entrepreneurs"
+    ],
+    "summary": "Bank loans between ₹10 lakh and ₹1 crore to at least one SC/ST borrower and at least one woman borrower per bank branch for setting up greenfield enterprises.",
+    "eligibility": {
+      "occupations": [
+        "Business Owner",
+        "Self Employed",
+        "Professional"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "SC",
+        "ST",
+        "General",
+        "OBC",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Female",
+        "Male",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "SC/ST and/or woman entrepreneur setting up a greenfield enterprise in manufacturing, services, agri-allied, or trading. In non-individual enterprises, 51% stake must be held by SC/ST or woman."
+    },
+    "benefits": "Composite loan (term loan + working capital) between ₹10 lakh and ₹1 crore covering up to 85% of project cost with lowest applicable interest rate for the category.",
+    "documents_required": [
+      "Aadhaar, PAN Card, Voter ID",
+      "Caste Certificate (for SC/ST applicants)",
+      "Detailed Project Report (DPR)",
+      "Partnership deed or incorporation certificate (if applicable)",
+      "Lease or ownership documents for business premises"
+    ],
+    "application_steps": [
+      "Visit standupmitra.in portal and register as 'Borrower'.",
+      "Submit project details and choose handholding support if needed.",
+      "Select preferred bank branch.",
+      "Bank inspects project proposal and sanctions loan."
+    ],
+    "official_url": "https://www.standupmitra.in"
+  },
+  {
+    "id": "pm-jeevan-jyoti",
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "category": "Social Security & Pension",
+    "level": "Central",
+    "ministry": "Ministry of Finance",
+    "target_beneficiaries": [
+      "All Bank Account Holders aged 18-50"
+    ],
+    "summary": "Affordable life insurance providing ₹2,00,000 death benefit for any cause of death at a premium of just ₹436 per year (auto-debited).",
+    "eligibility": {
+      "occupations": [
+        "Student",
+        "Farmer",
+        "Salaried Employee",
+        "Private Employee",
+        "Self Employed",
+        "Daily Wage Worker",
+        "Business Owner",
+        "Unemployed"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": 50,
+      "criteria": "Any individual aged 18 to 50 having a savings bank account with consent to join auto-debit facility. Cover lasts up to age 55."
+    },
+    "benefits": "₹2,00,000 paid to nominee on death of subscriber due to any cause. Premium is only ₹436/year (~₹1.20 per day).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Savings Bank Account with auto-debit consent",
+      "Nominee details"
+    ],
+    "application_steps": [
+      "Log into Internet Banking / Mobile App of your bank.",
+      "Navigate to Government Schemes / Insurance / PMJJBY.",
+      "Confirm nominee and agree to auto-debit ₹436/year.",
+      "Or fill simple enrollment slip at your local bank branch."
+    ],
+    "official_url": "https://financialservices.gov.in"
+  },
+  {
+    "id": "pm-suraksha-bima",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "category": "Social Security & Pension",
+    "level": "Central",
+    "ministry": "Ministry of Finance",
+    "target_beneficiaries": [
+      "All Bank Account Holders aged 18-70"
+    ],
+    "summary": "Most affordable accident insurance offering ₹2,00,000 for accidental death or permanent total disability at a tiny premium of just ₹20 per year.",
+    "eligibility": {
+      "occupations": [
+        "Student",
+        "Farmer",
+        "Salaried Employee",
+        "Private Employee",
+        "Self Employed",
+        "Daily Wage Worker",
+        "Business Owner",
+        "Unemployed"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": 70,
+      "criteria": "Any individual aged 18 to 70 having a savings bank account with consent to join auto-debit."
+    },
+    "benefits": "₹2,00,000 for accidental death or permanent total disability (loss of both eyes/limbs). ₹1,00,000 for permanent partial disability. Annual premium is only ₹20.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Savings Bank Account with auto-debit consent",
+      "Nominee name and relationship"
+    ],
+    "application_steps": [
+      "Enroll via NetBanking / Mobile Banking app under Insurance section.",
+      "Or visit your bank branch and submit PMSBY consent form.",
+      "₹20 is auto-debited annually before May 31st."
+    ],
+    "official_url": "https://financialservices.gov.in"
+  },
+  {
+    "id": "pm-kavy",
+    "name": "Pradhan Mantri Kaushal Vikas Yojana 4.0 (PMKVY)",
+    "category": "Skill Development & Education",
+    "level": "Central",
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "target_beneficiaries": [
+      "Youth",
+      "Dropouts",
+      "Job Seekers"
+    ],
+    "summary": "Free industry-relevant skill training and certification in emerging fields (AI, robotics, IoT, drones, green energy) with placement assistance and stipend.",
+    "eligibility": {
+      "occupations": [
+        "Student",
+        "Unemployed",
+        "Daily Wage Worker"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 15,
+      "age_max": 45,
+      "criteria": "Unemployed youth or school/college dropouts looking for employment skills."
+    },
+    "benefits": "100% free short-term skill training, government recognized skill certificate, assessment, post-placement stipend, and direct job fairs.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Educational Marksheet (10th/12th/Graduation or dropout proof)",
+      "Bank Account details",
+      "Passport size photograph"
+    ],
+    "application_steps": [
+      "Visit skillindia.gov.in or pmkvyofficial.org.",
+      "Register as a candidate and browse training courses in your district.",
+      "Enroll in an approved Skill India training centre.",
+      "Complete course, clear assessment test, and receive certificate and placement assistance."
+    ],
+    "official_url": "https://www.skillindia.gov.in"
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister Employment Generation Programme (PMEGP)",
+    "category": "Finance & Business",
+    "level": "Central",
+    "ministry": "Ministry of Micro, Small and Medium Enterprises / KVIC",
+    "target_beneficiaries": [
+      "New Entrepreneurs",
+      "Unemployed Youth",
+      "Self-Help Groups"
+    ],
+    "summary": "Credit-linked subsidy scheme offering up to 35% government subsidy on project cost up to ₹50 lakh for manufacturing and ₹20 lakh for service enterprises.",
+    "eligibility": {
+      "occupations": [
+        "Unemployed",
+        "Self Employed",
+        "Business Owner"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "Any individual above 18 years. For projects above ₹10 lakh in manufacturing and ₹5 lakh in service, minimum educational qualification is 8th pass."
+    },
+    "benefits": "Subsidy rate: General category gets 15% (urban) and 25% (rural). Special categories (SC, ST, OBC, Minorities, Women, Ex-servicemen, Differently-abled) get 25% (urban) and 35% (rural) of the project cost.",
+    "documents_required": [
+      "Aadhaar Card and PAN Card",
+      "Caste / Special category certificate (if claiming higher subsidy)",
+      "Detailed Project Report (DPR)",
+      "8th standard pass certificate or higher marksheet",
+      "Rural area certificate (from Sarpanch/Panchayat if applying in rural)"
+    ],
+    "application_steps": [
+      "Apply online on kviconline.gov.in/pmegpeportal.",
+      "Fill online application with project cost and upload documents.",
+      "Agency (KVIC/KVIB/DIC) verifies application and forwards to selected financing bank.",
+      "Undergo mandatory EDP training online or offline before loan disbursement."
+    ],
+    "official_url": "https://www.kviconline.gov.in/pmegpeportal"
+  },
+  {
+    "id": "swachh-bharat",
+    "name": "Swachh Bharat Mission - Individual Household Latrine (IHHL)",
+    "category": "Housing & Sanitation",
+    "level": "Central",
+    "ministry": "Ministry of Jal Shakti / Ministry of Housing and Urban Affairs",
+    "target_beneficiaries": [
+      "Rural and Urban households without toilets"
+    ],
+    "summary": "Direct financial assistance of ₹12,000 for construction of a hygienic household toilet.",
+    "eligibility": {
+      "occupations": [
+        "Farmer",
+        "Daily Wage Worker",
+        "Unemployed",
+        "Self Employed"
+      ],
+      "max_annual_income": 200000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": null,
+      "criteria": "Households that do not currently have access to an individual sanitary toilet."
+    },
+    "benefits": "₹12,00,000 cash incentive credited directly to the beneficiary's bank account in stages upon geo-tagging the toilet construction.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Passbook copy (Aadhaar linked)",
+      "Photograph of applicant in front of the proposed/constructed toilet"
+    ],
+    "application_steps": [
+      "Apply online on sbm.gov.in (Gramin) or swachhbharaturban.gov.in (Urban).",
+      "Submit Aadhaar, bank details, and address.",
+      "Field officer verifies location and gives approval.",
+      "Construct toilet, upload geo-tagged photo, and receive ₹12,000 DBT."
+    ],
+    "official_url": "https://swachhbharatmission.ddws.gov.in"
+  },
+  {
+    "id": "lakhpati-didi",
+    "name": "Lakhpati Didi Scheme",
+    "category": "Women & Child Welfare",
+    "level": "Central",
+    "ministry": "Ministry of Rural Development",
+    "target_beneficiaries": [
+      "Rural Women in Self-Help Groups (SHGs)"
+    ],
+    "summary": "National initiative to empower 3 crore rural women in SHGs to earn a sustainable income of at least ₹1 lakh per year through skill training, micro-enterprises, and market linkage.",
+    "eligibility": {
+      "occupations": [
+        "Farmer",
+        "Self Employed",
+        "Daily Wage Worker",
+        "Unemployed"
+      ],
+      "max_annual_income": 150000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Female"
+      ],
+      "age_min": 18,
+      "age_max": 60,
+      "criteria": "Women members of active Day-NRLM Self-Help Groups (SHGs) in rural areas committed to taking up enterprise or value-addition activities."
+    },
+    "benefits": "Training in financial literacy, digital tools, drone piloting (Namo Drone Didi), livestock, organic farming, tailoring, and food processing; interest-free or concessional credit through Community Investment Fund and bank linkage; direct access to government GeM portal for selling products.",
+    "documents_required": [
+      "Aadhaar Card",
+      "SHG Membership verification / Passbook",
+      "Bank Account details",
+      "Ration Card"
+    ],
+    "application_steps": [
+      "Join or contact your village Self-Help Group (SHG) under NRLM.",
+      "Attend Village Organization (VO) / Cluster Level Federation (CLF) Lakhpati Didi planning meetings.",
+      "Submit your micro-investment plan (MIP) for chosen enterprise.",
+      "Receive skill training and credit disbursement."
+    ],
+    "official_url": "https://nrlm.gov.in"
+  },
+  {
+    "id": "pm-jan-dhan",
+    "name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "category": "Finance & Banking",
+    "level": "Central",
+    "ministry": "Ministry of Finance",
+    "target_beneficiaries": [
+      "Unbanked Citizens",
+      "Low-Income Families"
+    ],
+    "summary": "Universal access to banking with zero balance savings accounts, free RuPay debit card with ₹2 lakh accident cover, and overdraft facility up to ₹10,000.",
+    "eligibility": {
+      "occupations": [
+        "Student",
+        "Farmer",
+        "Daily Wage Worker",
+        "Salaried Employee",
+        "Self Employed",
+        "Unemployed",
+        "Retired"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 10,
+      "age_max": null,
+      "criteria": "Any Indian citizen without a basic bank account."
+    },
+    "benefits": "No minimum balance requirement. Free RuPay debit card with ₹2 lakh built-in accident insurance. Access to DBT government subsidies. Overdraft facility up to ₹10,000 for women account holders after 6 months of satisfactory operation.",
+    "documents_required": [
+      "Aadhaar Card (single document suffices for KYC and address)",
+      "Passport size photo"
+    ],
+    "application_steps": [
+      "Visit any bank branch or Bank Mitra / CSP kiosk.",
+      "Fill simple PMJDY account opening form.",
+      "Provide Aadhaar card for biometric verification.",
+      "Get passbook and instant RuPay debit card."
+    ],
+    "official_url": "https://pmjdy.gov.in"
+  },
+  {
+    "id": "pm-sym",
+    "name": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)",
+    "category": "Social Security & Pension",
+    "level": "Central",
+    "ministry": "Ministry of Labour and Employment",
+    "target_beneficiaries": [
+      "Unorganized Workers",
+      "Domestic Workers",
+      "Drivers",
+      "Rickshaw Pullers",
+      "Construction Workers"
+    ],
+    "summary": "Voluntary contributory pension scheme ensuring guaranteed minimum pension of ₹3,000 per month after age 60, with equal 50:50 contribution by Central Government.",
+    "eligibility": {
+      "occupations": [
+        "Daily Wage Worker",
+        "Self Employed",
+        "Farmer"
+      ],
+      "max_annual_income": 180000,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 18,
+      "age_max": 40,
+      "criteria": "Unorganized workers with monthly income up to ₹15,000. Not covered under EPFO, ESIC, or NPS, and not an income tax payer."
+    },
+    "benefits": "Guaranteed ₹3,000 per month pension after 60. Monthly contribution between ₹55 and ₹200 (matched 100% by Central Govt). Family pension of 50% to spouse on subscriber death.",
+    "documents_required": [
+      "Aadhaar Card",
+      "Savings Bank Account / Jan Dhan Account with IFSC",
+      "Active Mobile number"
+    ],
+    "application_steps": [
+      "Visit nearest Common Service Centre (CSC) or apply on maandhan.in.",
+      "CSC operator enters Aadhaar and bank details for e-KYC.",
+      "System calculates monthly contribution based on entry age.",
+      "Pay 1st contribution in cash; auto-debit set up for future. Instant Shram Yogi Pension Card issued."
+    ],
+    "official_url": "https://maandhan.in"
+  },
+  {
+    "id": "national-apprenticeship",
+    "name": "National Apprenticeship Promotion Scheme (NAPS-2)",
+    "category": "Skill Development & Employment",
+    "level": "Central",
+    "ministry": "Ministry of Skill Development and Entrepreneurship",
+    "target_beneficiaries": [
+      "ITI Graduates",
+      "Diploma Holders",
+      "Graduates",
+      "Freshers"
+    ],
+    "summary": "Provides on-the-job industrial apprenticeship training with direct government stipend support of up to ₹1,500/month (25% of total stipend).",
+    "eligibility": {
+      "occupations": [
+        "Student",
+        "Unemployed"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 14,
+      "age_max": null,
+      "criteria": "Candidates with minimum 5th to 12th pass, ITI, Diploma, or Degree seeking practical industrial training."
+    },
+    "benefits": "Practical hands-on industry experience in top private and public firms; monthly stipend (₹5,000 - ₹12,000) with ₹1,500 directly paid by Central Govt into candidate bank account; National Apprenticeship Certificate (NAC).",
+    "documents_required": [
+      "Aadhaar Card",
+      "Educational certificates and marksheets",
+      "Bank passbook details",
+      "Photograph"
+    ],
+    "application_steps": [
+      "Register as 'Candidate' on apprenticeshipindia.gov.in.",
+      "Complete e-KYC with Aadhaar.",
+      "Search and apply for open apprenticeship opportunities by trade/location.",
+      "Attend interview, sign apprenticeship contract, and join training."
+    ],
+    "official_url": "https://www.apprenticeshipindia.gov.in"
+  },
+  {
+    "id": "pm-janaushadhi",
+    "name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)",
+    "category": "Healthcare",
+    "level": "Central",
+    "ministry": "Ministry of Chemicals and Fertilizers / Pharmaceuticals & Medical Devices Bureau of India",
+    "target_beneficiaries": [
+      "All Citizens",
+      "Chronically Ill Patients",
+      "Low-Income Families"
+    ],
+    "summary": "Provides high-quality generic medicines, surgical items, and sanitary pads at 50% to 90% cheaper prices compared to branded medicines through Janaushadhi Kendras.",
+    "eligibility": {
+      "occupations": [
+        "Student",
+        "Farmer",
+        "Salaried Employee",
+        "Private Employee",
+        "Self Employed",
+        "Daily Wage Worker",
+        "Business Owner",
+        "Unemployed",
+        "Retired",
+        "Professional"
+      ],
+      "max_annual_income": null,
+      "categories": [
+        "General",
+        "OBC",
+        "SC",
+        "ST",
+        "EWS"
+      ],
+      "states": [
+        "All India"
+      ],
+      "genders": [
+        "Male",
+        "Female",
+        "Other"
+      ],
+      "age_min": 0,
+      "age_max": null,
+      "criteria": "Open to all Indian citizens without any income or category restriction. Anyone can purchase medicines with a valid doctor prescription."
+    },
+    "benefits": "Over 2,000 generic medicines and 300 surgical items available at 50% to 90% discount. Suvidha oxo-biodegradable sanitary napkins at just ₹1 per pad. Substantial monthly healthcare savings for chronic diabetes, hypertension, and cardiac patients.",
+    "documents_required": [
+      "Doctor's medical prescription (for prescription medicines)"
+    ],
+    "application_steps": [
+      "Download 'Janaushadhi Sugam' mobile app or visit janaushadhi.gov.in.",
+      "Search for nearest Pradhan Mantri Bhartiya Janaushadhi Kendra (over 10,000 centres nationwide).",
+      "Show prescription and purchase generic medicines at deeply discounted rates."
+    ],
+    "official_url": "https://janaushadhi.gov.in"
+  }
+]

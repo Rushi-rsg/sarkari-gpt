@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+chroma_db/
+.env
+.env.*
+!.env.example
+data/chat_history.json
+data/user_profile.json
